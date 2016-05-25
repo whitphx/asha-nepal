@@ -1,0 +1,9 @@
+baseurl = "http://tuttieee.com/asha-nepal/ja"
+languageCode = "ja-jp"
+title = "ASHA Nepal Project"
+contentdir = "content/ja"
+publishdir = "public/ja"
+canonifyUrls = true
+
+[Params]
+    hideServicesLink = true

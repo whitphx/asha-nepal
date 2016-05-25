@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://tuttieee.com/asha-nepal/</loc>
+    <loc>http://tuttieee.com/asha-nepal/ja/</loc>
     <priority>0</priority>
   </url>
   
@@ -11,15 +11,7 @@
   </url>
   
   <url>
-    <loc>http://tuttieee.com/asha-nepal/services/about/about/</loc>
-  </url>
-  
-  <url>
     <loc>http://tuttieee.com/asha-nepal/ja/services/lorem-ipsum/</loc>
-  </url>
-  
-  <url>
-    <loc>http://tuttieee.com/asha-nepal/services/lorem-ipsum/</loc>
   </url>
   
 </urlset>
