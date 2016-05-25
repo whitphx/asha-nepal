@@ -4,6 +4,7 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
 hugo -t landing-page-hugo
+hugo -t landing-page-hugo --config=config_ja.toml
 
 # Add changes to git.
 git add -A
