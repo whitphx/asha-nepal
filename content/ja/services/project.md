@@ -1,6 +1,6 @@
 ---
 Title: Project
-Img:
+Img: asha-camp.jpg
 Category: Services
 weight: 20
 Draft: false

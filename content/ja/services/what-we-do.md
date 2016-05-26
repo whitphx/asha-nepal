@@ -1,6 +1,6 @@
 ---
 Title: What we do
-Img:
+Img: asha-sc.jpeg
 Category: Services
 weight: 10
 Draft: false
