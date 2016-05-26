@@ -10,7 +10,7 @@ canonifyUrls = true
 
 [[Params.languages]]
     label = "日本語"
-    url = "ja"
+    url = "/ja"
 
 [[Params.social]]
     title = "facebook"
