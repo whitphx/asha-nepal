@@ -7,3 +7,12 @@ canonifyUrls = true
 
 [Params]
     hideServicesLink = true
+
+[[Params.languages]]
+    label = "English"
+    url = "../"
+
+[[Params.social]]
+    title = "facebook"
+    icon = "facebook"
+    url = "https://www.facebook.com/ashafusion/"

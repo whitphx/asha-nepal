@@ -1,7 +1,18 @@
 baseurl = "http://tuttieee.com/asha-nepal"
 languageCode = "en-us"
 title = "ASHA Nepal Project"
+contentdir = "content/en"
+publishdir = "public"
 canonifyUrls = true
 
 [Params]
     hideServicesLink = true
+
+[[Params.languages]]
+    label = "日本語"
+    url = "ja"
+
+[[Params.social]]
+    title = "facebook"
+    icon = "facebook"
+    url = "https://www.facebook.com/ashafusion/"
