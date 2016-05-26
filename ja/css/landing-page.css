@@ -26,6 +26,14 @@ h6 {
     font-weight: 400;
 }
 
+.intro-langages {
+    margin-top: 10px;
+}
+
+.intro-langages a {
+    color: white;
+}
+
 .intro-header {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
@@ -112,7 +120,7 @@ h6 {
 .contact {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(/img/contact-bg.jpg) no-repeat center center;
+    background: url(../img/contact-bg.jpg) no-repeat center center;
     background-size: cover;
 }
 
