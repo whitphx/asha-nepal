@@ -1,6 +1,11 @@
 ---
 Title: About "ASHA Nepal Project"
 Draft: false
-Img: doctor-uses-asha-fusion.jpg
+Img: asha-sc.jpeg
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+**ASHA Nepal Project** aims to improve the public health and mental care in rural areas of Nepal with IT.
+
+Some members went Nepal and conducted a health camp just after the Nepal earthquake and found the the lack of patient information management and sustainable health support. After that, they started this project to solve these problems.
+
+Our team consists of not only medical staffs such as doctors and nurses but also engineers. We are developing an useful software to manage and share patient information efficiently and to supply sustainable health support.

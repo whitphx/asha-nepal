@@ -1,10 +1,14 @@
 ---
 Title: What we do
-Img: asha-sc.jpeg
+Img: doctor-uses-asha-fusion.jpg
 Category: Services
 weight: 10
 Draft: false
 id: what-we-do
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We are developing a patient information management system, named "ASHA fusion", which can be easily used by medical staffs in rural areas of Nepal.
+
+We have conducted trials in hospital and health camp with supports of local parters in order to introduce our software into the real situation.
+
+Moreover, we expect our software will get helpful to improve public health by collecting a lot of information and extracting insights from it.

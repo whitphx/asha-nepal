@@ -7,4 +7,12 @@ Draft: false
 id: project
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Trial
+
+In March 2016, our team went to Nepal and conducted a health camp using the first version of our software "ASHA fusion" with supports of local NGO and doctors. Local doctors and nurses used ASHA fusion and give us lots of feedbacks with good feelings.
+Furthermore, we tried to introduce ASHA fusion to the hospital operation.
+
+### Future
+
+Our team started to develop more convenient system based on the feedbacks from the users.
+We will continue to improve our system and to spread to health camps and hospitals by going there continuously.
