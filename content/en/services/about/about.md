@@ -8,4 +8,4 @@ Img: asha-sc.jpeg
 
 Some members went Nepal and conducted a health camp just after the Nepal earthquake and found the the lack of patient information management and sustainable health support. After that, they started this project to solve these problems.
 
-Our team consists of not only medical staffs such as doctors and nurses but also engineers. We are developing an useful software to manage and share patient information efficiently and to supply sustainable health support.
+Our team consists of medical staffs such as doctors and nurses as well as engineers. We are developing an useful software to manage and share patient information efficiently and to supply sustainable health support.
