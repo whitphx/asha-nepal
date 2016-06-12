@@ -6,6 +6,7 @@ publishdir = "public"
 canonifyUrls = true
 
 [Params]
+    googleAnalytics = "UA-78099028-2"
     hideServicesLink = true
 
 [[Params.languages]]
