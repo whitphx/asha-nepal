@@ -1,4 +1,4 @@
-baseurl = "http://asha-np.org/ja/"
+baseurl = "http://asha-np.org/"
 languageCode = "ja-jp"
 title = "ASHA Nepal Project"
 contentdir = "content/ja"
