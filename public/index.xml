@@ -2,58 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ASHA Nepal Project</title>
-    <link>http://asha-np.org/</link>
+    <link>http://asha-np.org/ja/</link>
     <description>Recent content on ASHA Nepal Project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="http://asha-np.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-jp</language>
+    <atom:link href="http://asha-np.org/ja/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About &#34;ASHA Nepal Project&#34;</title>
-      <link>http://asha-np.org/services/about/about/</link>
+      <link>http://asha-np.org/ja/services/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://asha-np.org/services/about/about/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;ASHA Nepal Project&lt;/strong&gt; aims to improve public health and mental care in rural areas of Nepal with IT.&lt;/p&gt;
+      <guid>http://asha-np.org/ja/services/about/about/</guid>
+      <description>&lt;p&gt;ASHA Nepal Projectは，医療にICTの力を取り入れ，ネパールの地方部における簡易診療および心理ケアのクオリティ向上を目指すプロジェクトです．&lt;/p&gt;
 
-&lt;p&gt;Some of our team members went to Nepal and conducted a health camp just after the April-May 2015 Nepal earthquake and found a lack of patient information management and sustainable health support. After that, we launched this project to address these problems.&lt;/p&gt;
-
-&lt;p&gt;Our team consists of medical staffs such as doctors and nurses as well as engineers. We are developing useful software to manage and share patient information efficiently and to provide sustainable health support.&lt;/p&gt;
+&lt;p&gt;ネパール大震災後，現地で医療キャンプを行ったメンバーが，患者情報管理の不足と，それによる継続的支援の困難という問題に気づき，これを解決するためにASHA Nepal Projectを立ち上げました．
+医師，看護師などの医療系人材にエンジニアを加えたチームで，患者の情報を適切に管理・共有し，継続的かつ包括的な医療支援を行うためのプラットフォームの開発を行います．&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>What we do</title>
-      <link>http://asha-np.org/services/what-we-do/</link>
+      <link>http://asha-np.org/ja/services/what-we-do/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://asha-np.org/services/what-we-do/</guid>
-      <description>&lt;p&gt;We are developing a patient information management system, named &amp;ldquo;ASHA fusion&amp;rdquo;, which can be easily used by medical staffs in rural areas of Nepal.&lt;/p&gt;
+      <guid>http://asha-np.org/ja/services/what-we-do/</guid>
+      <description>&lt;p&gt;途上国，特にネパールの地方医療に携わる関係者が自ら管理・運営できる情報管理ソフトウェアASHA fusionを開発し，
+現地パートナーと協力しながら実際にASHA fusionを使ってヘルスキャンプや現地病院でのトライアルを行うことで導入の促進を図っています．&lt;/p&gt;
 
-&lt;p&gt;We have conducted trials in a hospital and a health camp with supports of local partners in order to introduce our software into practice.&lt;/p&gt;
-
-&lt;p&gt;Moreover, we expect our software to become even more helpful to improve public health by collecting a lot of information and extracting insights from it.&lt;/p&gt;
+&lt;p&gt;さらに，ASHA fusionによって構築されるデータベースから，臨床・公衆衛生を改善していくための様々な知見が得られることが期待され，その活用まで見据えて活動を行っています．&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Project</title>
-      <link>http://asha-np.org/services/project/</link>
+      <link>http://asha-np.org/ja/services/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://asha-np.org/services/project/</guid>
+      <guid>http://asha-np.org/ja/services/project/</guid>
       <description>
 
 &lt;h3 id=&#34;trial:10be9c81b9315bdc8704629d17642664&#34;&gt;Trial&lt;/h3&gt;
 
-&lt;p&gt;In March 2016, our team went to Nepal and conducted a health camp using the first version of our software &amp;ldquo;ASHA fusion&amp;rdquo; with supports of local NGOs and doctors. Local doctors and nurses used ASHA fusion and gave us lots of feedback with positive feelings.
-Furthermore, we tried to introduce ASHA fusion to the hospital operation.
-Furthermore, we implemented trial use at a private hospital, and discussed introducing ASHA fusion to hospital operations.&lt;/p&gt;
+&lt;p&gt;2016年3月，ASHAチームはネパールに渡航し， 現地のNGOや医師の協力を得ながら，ASHA fusionの最初のバージョンを用いたHealth campを実施しました． 実際に現地の医師やナースにASHA fusionを試用していただき，好意的な反応を頂いたとともに，今後の改善に向けた様々な知見を得ることができました．&lt;/p&gt;
+
+&lt;p&gt;また，現地の私立病院の一部のオペレーションにASHA fusionを導入する実験を行い， Health campだけでなく病院への導入への可能性を探りました．&lt;/p&gt;
 
 &lt;h3 id=&#34;future:10be9c81b9315bdc8704629d17642664&#34;&gt;Future&lt;/h3&gt;
 
-&lt;p&gt;Our team started to develop more convenient system based on the feedback from the users.
-We are going to continue to improve our system and to spread it to health camps and hospitals by visiting there continuously.&lt;/p&gt;
+&lt;p&gt;Trialでは現地の医師や医療関係者から数多くのフィードバックを頂きました． それを踏まえ，より使いやすく高機能なソフトウェアを目指して開発を開始しました．
+今後はソフトウェアの改善を続けるとともに，継続的に現地へ渡航しHealth campや現地病院への導入を行っていきます．&lt;/p&gt;
 </description>
     </item>
     

@@ -2,7 +2,7 @@ baseurl = "http://asha-np.org/ja/"
 languageCode = "ja-jp"
 title = "ASHA Nepal Project"
 contentdir = "content/ja"
-publishdir = "public/ja"
+publishdir = "public"
 canonifyUrls = true
 
 [Params]
@@ -10,7 +10,7 @@ canonifyUrls = true
 
 [[Params.languages]]
     label = "English"
-    url = "/../"
+    url = "/en"
 
 [[Params.social]]
     title = "facebook"
