@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on ASHA Nepal Project</title>
-    <link>http://asha-np.org/ja/services/</link>
+    <link>http://asha-np.org/services/</link>
     <description>Recent content in Services on ASHA Nepal Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <atom:link href="http://asha-np.org/ja/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://asha-np.org/services/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About &#34;ASHA Nepal Project&#34;</title>
-      <link>http://asha-np.org/ja/services/about/about/</link>
+      <link>http://asha-np.org/services/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://asha-np.org/ja/services/about/about/</guid>
+      <guid>http://asha-np.org/services/about/about/</guid>
       <description>&lt;p&gt;ASHA Nepal Projectは，医療にICTの力を取り入れ，ネパールの地方部における簡易診療および心理ケアのクオリティ向上を目指すプロジェクトです．&lt;/p&gt;
 
 &lt;p&gt;ネパール大震災後，現地で医療キャンプを行ったメンバーが，患者情報管理の不足と，それによる継続的支援の困難という問題に気づき，これを解決するためにASHA Nepal Projectを立ち上げました．
@@ -23,10 +23,10 @@
     
     <item>
       <title>What we do</title>
-      <link>http://asha-np.org/ja/services/what-we-do/</link>
+      <link>http://asha-np.org/services/what-we-do/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://asha-np.org/ja/services/what-we-do/</guid>
+      <guid>http://asha-np.org/services/what-we-do/</guid>
       <description>&lt;p&gt;途上国，特にネパールの地方医療に携わる関係者が自ら管理・運営できる情報管理ソフトウェアASHA fusionを開発し，
 現地パートナーと協力しながら実際にASHA fusionを使ってヘルスキャンプや現地病院でのトライアルを行うことで導入の促進を図っています．&lt;/p&gt;
 
@@ -36,10 +36,10 @@
     
     <item>
       <title>Project</title>
-      <link>http://asha-np.org/ja/services/project/</link>
+      <link>http://asha-np.org/services/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://asha-np.org/ja/services/project/</guid>
+      <guid>http://asha-np.org/services/project/</guid>
       <description>
 
 &lt;h3 id=&#34;trial:10be9c81b9315bdc8704629d17642664&#34;&gt;Trial&lt;/h3&gt;
