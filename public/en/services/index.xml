@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on ASHA Nepal Project</title>
-    <link>http://asha-np.org/en/services/</link>
+    <link>http://asha-np.org/en/services/index.xml</link>
     <description>Recent content in Services on ASHA Nepal Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -44,13 +44,13 @@
       <guid>http://asha-np.org/en/services/project/</guid>
       <description>
 
-&lt;h3 id=&#34;trial:10be9c81b9315bdc8704629d17642664&#34;&gt;Trial&lt;/h3&gt;
+&lt;h3 id=&#34;trial&#34;&gt;Trial&lt;/h3&gt;
 
 &lt;p&gt;In March 2016, our team went to Nepal and conducted a health camp using the first version of our software &amp;ldquo;ASHA fusion&amp;rdquo; with supports of local NGOs and doctors. Local doctors and nurses used ASHA fusion and gave us lots of feedback with positive feelings.
 Furthermore, we tried to introduce ASHA fusion to the hospital operation.
 Furthermore, we implemented trial use at a private hospital, and discussed introducing ASHA fusion to hospital operations.&lt;/p&gt;
 
-&lt;h3 id=&#34;future:10be9c81b9315bdc8704629d17642664&#34;&gt;Future&lt;/h3&gt;
+&lt;h3 id=&#34;future&#34;&gt;Future&lt;/h3&gt;
 
 &lt;p&gt;Our team started to develop more convenient system based on the feedback from the users.
 We are going to continue to improve our system and to spread it to health camps and hospitals by visiting there continuously.&lt;/p&gt;

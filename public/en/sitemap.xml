@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://asha-np.org/en/services/what-we-do/</loc>
+  </url>
+  
+  <url>
+    <loc>http://asha-np.org/en/services/project/</loc>
+  </url>
+  
+  <url>
     <loc>http://asha-np.org/en/</loc>
     <priority>0</priority>
   </url>
@@ -11,11 +19,8 @@
   </url>
   
   <url>
-    <loc>http://asha-np.org/en/services/what-we-do/</loc>
-  </url>
-  
-  <url>
-    <loc>http://asha-np.org/en/services/project/</loc>
+    <loc>http://asha-np.org/en/services/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
