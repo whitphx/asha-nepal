@@ -2,20 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://asha-np.org/services/about/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://asha-np.org/services/mission/</loc>
+  </url>
+  
+  <url>
+    <loc>http://asha-np.org/services/problems/</loc>
+  </url>
+  
+  <url>
+    <loc>http://asha-np.org/services/solution/</loc>
+  </url>
+  
+  <url>
+    <loc>http://asha-np.org/services/goal/</loc>
+  </url>
+  
+  <url>
+    <loc>http://asha-np.org/services/achievements/</loc>
+  </url>
+  
+  <url>
+    <loc>http://asha-np.org/services/future/</loc>
+  </url>
+  
+  <url>
+    <loc>http://asha-np.org/services/partners/</loc>
+  </url>
+  
+  <url>
     <loc>http://asha-np.org/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://asha-np.org/services/about/about/</loc>
-  </url>
-  
-  <url>
-    <loc>http://asha-np.org/services/what-we-do/</loc>
-  </url>
-  
-  <url>
-    <loc>http://asha-np.org/services/project/</loc>
+    <loc>http://asha-np.org/services/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
