@@ -34,6 +34,10 @@
   </url>
   
   <url>
+    <loc>http://asha-np.org/services/supporters/</loc>
+  </url>
+  
+  <url>
     <loc>http://asha-np.org/</loc>
     <priority>0</priority>
   </url>
